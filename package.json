@@ -18,12 +18,12 @@
     "express-validator": "6.14.2",
     "jsonwebtoken": "^9.0.0",
     "mariadb": "^2.0.5",
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.20",
     "sequelize": "^5.22.5",
     "verror": "^1.10.0"
   },
   "devDependencies": {
-    "eslint": "^6.0.0",
+    "eslint": "^6.8.0",
     "eslint-config-google": "^0.13.0",
     "eslint-utils": ">=1.4.1",
     "jest": "^26.4.0",
